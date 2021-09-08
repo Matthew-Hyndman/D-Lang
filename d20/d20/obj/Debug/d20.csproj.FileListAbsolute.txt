@@ -1,0 +1,14 @@
+C:\Users\Matthew Hyndman\source\repos\d20\d20\bin\Debug\d20.exe.config
+C:\Users\Matthew Hyndman\source\repos\d20\d20\bin\Debug\d20.exe
+C:\Users\Matthew Hyndman\source\repos\d20\d20\bin\Debug\d20.pdb
+C:\Users\Matthew Hyndman\source\repos\d20\d20\obj\Debug\d20.csprojAssemblyReference.cache
+C:\Users\Matthew Hyndman\source\repos\d20\d20\obj\Debug\d20.csproj.CoreCompileInputs.cache
+C:\Users\Matthew Hyndman\source\repos\d20\d20\obj\Debug\d20.exe
+C:\Users\Matthew Hyndman\source\repos\d20\d20\obj\Debug\d20.pdb
+D:\source\repos\d20\d20\bin\Debug\d20.exe.config
+D:\source\repos\d20\d20\bin\Debug\d20.exe
+D:\source\repos\d20\d20\bin\Debug\d20.pdb
+D:\source\repos\d20\d20\obj\Debug\d20.csprojAssemblyReference.cache
+D:\source\repos\d20\d20\obj\Debug\d20.csproj.CoreCompileInputs.cache
+D:\source\repos\d20\d20\obj\Debug\d20.exe
+D:\source\repos\d20\d20\obj\Debug\d20.pdb
